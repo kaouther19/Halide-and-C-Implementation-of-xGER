@@ -9,6 +9,8 @@ To run  this project, you will need Halide :
 * Download a binary release of Halide from: https://github.com/halide/Halide/releases
 * If you would prefer to build Halide from source, see https://github.com/halide/Halide/blob/master/README.md  for instructions. Note that it might take up to a full night.
 
+You can find an example of installation log in the file intallation-log.txt
+
 ## Usage
 
 * First clone this repo : 
