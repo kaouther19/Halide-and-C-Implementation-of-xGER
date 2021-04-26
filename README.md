@@ -13,7 +13,7 @@ You can find an example of installation log in the file intallation-log.txt
 
 ## Usage
 
-* First clone this repo : 
+* First clone this repo 
 * cd Halide-and-C-Implementation-of-xGER
 * give the script execute permission chmod +x script.sh
 * run the script.sh $ ./script.sh -p path/to/halide/in/your/pc
